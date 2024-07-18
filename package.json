@@ -14,6 +14,11 @@
     ],
     "author": "compiled-beetle",
     "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/compiled-beetle/P5-Template.git"
+    },
+    "homepage": "https://github.com/compiled-beetle/P5-Template.git#readme",
     "dependencies": {
         "nodemon": "^3.1.4"
     }

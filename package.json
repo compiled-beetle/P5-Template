@@ -1,0 +1,20 @@
+{
+    "name": "p5-template",
+    "version": "1.0.0",
+    "description": "Simple p5.js template project.",
+    "main": "script.js",
+    "scripts": {
+        "test": "nodemon ./server.js"
+    },
+    "keywords": [
+        "node.js",
+        "p5.js",
+        "processing",
+        "template"
+    ],
+    "author": "compiled-beetle",
+    "license": "MIT",
+    "dependencies": {
+        "nodemon": "^3.1.4"
+    }
+}

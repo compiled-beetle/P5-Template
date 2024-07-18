@@ -1,0 +1,12 @@
+# node files
+node_modules
+package-lock.json
+
+# environment variables
+.env
+
+# vscode files
+.vscode/
+
+# output files
+_output/

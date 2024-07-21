@@ -24,3 +24,7 @@ For more information on p5.js and how to use it, refer to the official [p5.js we
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Note:
+
+License only applies to the code in this repository. p5.js has its own license, which should be reviewed separately.
